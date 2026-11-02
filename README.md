@@ -72,6 +72,9 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/badb5c25-8f0f-4f0b-86c3-699ae75049ef" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/116df5e0-ce7c-4d7f-addd-025d06cc5e94" />
+<img width="1916" height="1136" alt="image" src="https://github.com/user-attachments/assets/78da2ec5-7985-495b-8a30-f08a8117c744" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
